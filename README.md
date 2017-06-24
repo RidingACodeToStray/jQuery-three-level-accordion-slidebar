@@ -1,13 +1,9 @@
-### jQueryÊµÏÖÈý¼¶ÊÖ·çÇÙ²à±ßÀ¸²Ëµ¥
-### Ñ¡ÔñÆ÷ËµÃ÷
-#### s-firstItem Ò»¼¶µ¼º½£¬ÎÞÏÂÀ­
-#### s-firstNav  Ò»¼¶²Ëµ¥£¬ÓÐÏÂÀ­³ös-firstDrop²Ëµ¥
-#### s-firstDrop Ò»¼¶²Ëµ¥ÏÂÀ­³öÀ´µÄ²Ëµ¥ul
-<br>
-<br>
-#### s-secondItem ¶þ¼¶µ¼º½£¬ÎÞÏÂÀ­
-#### s-secondNav ¶þ¼¶²Ëµ¥£¬ÓÐÏÂÀ­³ös-secondDrop²Ëµ¥
-#### s-secondDrop ¶þ¼¶²Ëµ¥ÏÂÀ­³öÀ´µÄ²Ëµ¥ul
-<br>
-<br>
-#### s-thirdItem Èý¼¶µ¼º½£¬ÎÞÏÂÀ­
+### jQueryå®žçŽ°ä¸‰çº§æ‰‹é£Žç´ä¾§è¾¹æ èœå•
+### é€‰æ‹©å™¨è¯´æ˜Ž
+#### s-firstItem ä¸€çº§å¯¼èˆªï¼Œæ— ä¸‹æ‹‰
+#### s-firstNav  ä¸€çº§èœå•ï¼Œæœ‰ä¸‹æ‹‰å‡ºs-firstDropèœå•
+#### s-firstDrop ä¸€çº§èœå•ä¸‹æ‹‰å‡ºæ¥çš„èœå•ul
+#### s-secondItem äºŒçº§å¯¼èˆªï¼Œæ— ä¸‹æ‹‰
+#### s-secondNav äºŒçº§èœå•ï¼Œæœ‰ä¸‹æ‹‰å‡ºs-secondDropèœå•
+#### s-secondDrop äºŒçº§èœå•ä¸‹æ‹‰å‡ºæ¥çš„èœå•ul
+#### s-thirdItem ä¸‰çº§å¯¼èˆªï¼Œæ— ä¸‹æ‹‰
